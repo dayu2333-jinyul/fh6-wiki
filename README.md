@@ -8,10 +8,20 @@
 
 ## 📋 Features
 
-- 🗺️ Interactive game map with all collectibles locations
-- 🏎️ Car tuning calculator with 24 presets
-- 📊 Car performance comparison tool
-- 📚 60+ game guides (tuning, drifting, auction house, etc.)
+- 🗺️ [Interactive game map](https://fh6wiki.com/map) with all collectibles locations
+- 🏎️ [Car tuning calculator](https://fh6wiki.com/tuning-calculator) with 24 presets
+- 📊 [Car performance comparison tool](https://fh6wiki.com/compare-cars)
+- 📚 [60+ game guides](https://fh6wiki.com/guides) — tuning, drifting, auction house, seasons
+- 🚗 [800+ car database](https://fh6wiki.com/cars) with stats by brand and class
+
+## 📖 Popular Guides
+
+- [Beginner's Guide to FH6](https://fh6wiki.com/beginner-guide) — everything new players need
+- [Best Cars Tier List](https://fh6wiki.com/cars) — top picks for every class
+- [Car Comparison](https://fh6wiki.com/compare) — side-by-side performance stats
+- [Tuning Guide](https://fh6wiki.com/tuning-guide) — basics of ride height, damping, gearing
+- [Hidden & Rare Cars](https://fh6wiki.com/guides/hidden-cars) — where to find them
+- [Seasonal Playlist](https://fh6wiki.com/seasonal-playlist) — current rewards and challenges
 
 ## 📂 About This Repository
 
