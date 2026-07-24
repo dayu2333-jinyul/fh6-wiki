@@ -94,3 +94,7 @@ This repository hosts the open-source documentation and npm package for [fh6wiki
 ⭐ **Star this repo to support FH6 Wiki — it's free, and it helps more players find the guides they need.**
 
 *Not affiliated with Microsoft, Playground Games, or Turn 10 Studios. Forza Horizon is a trademark of Microsoft Corporation.*
+
+## 📝 Community Articles
+
+- [FH6 Keeps Crashing? 7 Real Fixes for PC](https://dev.to/dayu2333jinyul/forza-horizon-6-keeps-crashing-7-real-fixes-for-pc-launch-performance-issues-5ab0) — troubleshooting guide on Dev.to
